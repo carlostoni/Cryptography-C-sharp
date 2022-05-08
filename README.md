@@ -1,4 +1,4 @@
-# Encrypting-Decrypting-a-String-in-C-Sharp
+# Encrypting-Decrypting-C-Sharp
 The software was based on the Caesar cipher, it basically works in a unique way for each user.
 
 The cipher is based on the password entered by the user who wants to encrypt its text, so it is only possible to decrypt the text with the password entered previously.
